@@ -4,6 +4,7 @@
 var rangeOfPassword = function() {
     var range = parseInt(window.prompt("Please, enter a value between 8 and 128"));
     // use of conditional statement for a valid response
+    
     if(range < 8 || range > 128) {
         window.alert("Your input is invalid. Please, enter a valid value.");
         // recursive function to ensure a right input
