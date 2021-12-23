@@ -23,6 +23,6 @@
 ![screenshot](./assets/images/Screenshot(password-ready).png/)
 
 ### The link of the deployed application:
-
+https://chotansharma.github.io/password-ready/
 
 ### Made with love by Chotan Sharma.
